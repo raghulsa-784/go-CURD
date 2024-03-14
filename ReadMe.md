@@ -22,8 +22,8 @@ Before running the API, ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
-    cd your-repository
+    git clone https://github.com/Wicked2468/go-CURD.git
+    cd go-CURD
     ```
 
 2. Install dependencies:
